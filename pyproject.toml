@@ -15,5 +15,6 @@ dependencies = [
     "protobuf>=6.31.1",
     "python-dotenv>=1.1.0",
     "torch<2.7",
+    "tqdm>=4.67.1",
     "transformers[torch]>=4.52.4",
 ]

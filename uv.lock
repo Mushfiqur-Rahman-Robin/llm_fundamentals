@@ -1020,6 +1020,7 @@ dependencies = [
     { name = "protobuf" },
     { name = "python-dotenv" },
     { name = "torch" },
+    { name = "tqdm" },
     { name = "transformers", extra = ["torch"] },
 ]
 
@@ -1035,6 +1036,7 @@ requires-dist = [
     { name = "protobuf", specifier = ">=6.31.1" },
     { name = "python-dotenv", specifier = ">=1.1.0" },
     { name = "torch", specifier = "<2.7" },
+    { name = "tqdm", specifier = ">=4.67.1" },
     { name = "transformers", extras = ["torch"], specifier = ">=4.52.4" },
 ]
 

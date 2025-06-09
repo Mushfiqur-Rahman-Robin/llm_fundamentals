@@ -11,3 +11,4 @@ wheels/
 .env
 .gradio
 models/
+cifar_data/
